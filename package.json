@@ -1,0 +1,17 @@
+{
+  "name": "tut1cac",
+  "version": "1.0.0",
+  "description": "backend practice from chai aur backend channel",
+  "keywords": [
+    "javascript",
+    "backend",
+    "mern"
+  ],
+  "license": "ISC",
+  "author": "satish",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
